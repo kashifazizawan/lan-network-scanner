@@ -162,3 +162,5 @@ or drop it next to the app and load it via `app.core.oui.load_external_oui(path)
 ## License
 
 Provided as-is for authorized network administration use.
+http://securitydevices.pk
+https://keyboardtester.click
