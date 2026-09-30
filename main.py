@@ -26,7 +26,7 @@ def main() -> int:
     app.setOrganizationName("LanScanner")
 
     from app.config import load_settings
-    from app.theme import apply_theme
+    from app.ui.theme import apply_theme
     from app.ui.main_window import MainWindow
 
     settings = load_settings()
